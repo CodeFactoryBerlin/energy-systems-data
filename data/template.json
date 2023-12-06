@@ -1,0 +1,20 @@
+{
+    "id": "",
+    "name": "",
+    "toplevel" :"Y or N",
+    "oneliner": "",
+    "diagram":"https://raw.githubusercontent.com/CodeFactoryBerlin/energy-systems-data/main/visuals/xxx.png",
+    "description": "",
+    "components": [
+        "**A**: ",
+        "**B**: ",
+        "**C**: ",
+        "**D**: ",
+        "**E**: "],
+    "wikipedia": "none",
+    "reference":"",
+    "categories": [
+        ""
+    ],
+    "tags": [""]
+}
