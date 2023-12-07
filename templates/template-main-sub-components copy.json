@@ -2,6 +2,7 @@
     "id": "",
     "name": "",
     "toplevel" :"Y or N",
+    "type":"main-sub-components",
     "oneliner": "",
     "diagram":"https://raw.githubusercontent.com/CodeFactoryBerlin/energy-systems-data/main/visuals/xxx.png",
     "description": "",
