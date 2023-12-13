@@ -1,4 +1,4 @@
-# energy-systems-data
+# Energy Systems
 
 This website is all about making energy systems easy to understand. We'll explore how power systems work, managing energy, keeping the grid stable, and charging electric vehicles. You'll get to learn about these topics and more, which all come together to make up our energy system.
 
