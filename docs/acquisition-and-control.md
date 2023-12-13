@@ -1,5 +1,7 @@
 # Acquisition and Control
 
+![Acquisition and Control](../visuals/power-system-reference-architecture-acquisition-and-control.png)
+
 The Acquisition and Control section in the power system architecture focuses on the collection and management of data and the control of power system operations. This is where the physical state of the power system is monitored, decisions are made, and actions are taken to maintain system stability, efficiency, and reliability. This includes managing both less-critical and critical equipment, ensuring that all components communicate effectively, and that control actions are timely and accurate.
 
 **Edge Node Control**: is the first line of the acquisition and control system, managing the control points at the edges of the grid, such as substations and smart meters. It handles protocol management, local automations, and ensures synchronization and balance within the power system. This involves monitoring and control of the equipment, management of frequency and storage, and overseeing power quality. It also includes the aggregation and protection of distributed or virtualized equipment, recording failures, and managing demand response and outages.
