@@ -8,7 +8,7 @@
     * [System Management](system-management.md)
     * [Customer and Market](customer-and-market.md)
     * [Acquisition and Control](acquisition-and-control.md)
-    * [Asset Management](ssset-management.md)
+    * [Asset Management](asset-management.md)
     * [Shared Functions](shared-functions.md)
 * [The Electrical Power Lifecycle](electrical-power-lifecycle.md)
 * [State Estimation](state-estimation.md)
