@@ -2,6 +2,8 @@
 
 The Shared Functions in the reference architecture of a power system encapsulate the essential services and processes that support various aspects of the system's operation. They provide the foundational capabilities that are utilized across different system components, ensuring that the power system operates efficiently, securely, and in compliance with regulatory standards. These functions are crucial for the seamless integration and management of the system's diverse elements, from data handling to user experience.
 
+![Acquisition and Control](../img/power-system-reference-architecture-shared-functions.png)
+
 **Data Management**: is the backbone of the Shared Functions, focusing on the handling of all system data. This includes long-term storage solutions that ensure data integrity over time, message queuing services that manage the flow of data between system components, and data validation processes that ensure the accuracy and reliability of the data used across the system.
 
 **Security Management**: encompasses cybersecurity measures to protect the system from digital threats and privacy management to safeguard sensitive information. This function is critical in an era where cyber threats are increasingly sophisticated, requiring robust security protocols to protect infrastructure and customer data.

@@ -2,6 +2,8 @@
 
 Asset Management within a power system's reference architecture is a comprehensive approach that ensures all physical and digital assets operate optimally throughout their lifecycle. It spans from outage management and investment planning to supervision, analytics, and field operations. This segment of the architecture is integral to the sustainable operation of the power grid, ensuring that assets are well-maintained, efficiently utilized, and strategically enhanced or replaced over time.
 
+![Acquisition and Control](../img/power-system-reference-architecture-asset-management.png)
+
  **Outage Management**: is focused on efficiently addressing power outages with a systematic approach. This includes ticketing systems for issue tracking, programming, and planning for outages, as well as assessing the impact on customers. Effective coordination and management of outages, especially distributed outages, are crucial for minimizing downtime and ensuring prompt restoration of services. This component is key to maintaining customer satisfaction and the reliability of the power supply.
 
 **Asset Investment Planning**: ensures that investments in power system assets are made strategically. This involves managing policies for renewable energy integration, setting overarching investment policies, and handling the financial aspects of asset procurement and deployment. The goal is to align investment decisions with the long-term objectives of sustainability, reliability, and financial viability, taking into account the evolving energy landscape and regulatory environment.

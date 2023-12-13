@@ -2,6 +2,8 @@
 
 Overall, this architecture aims to provide a structured approach to managing the complex and interrelated components of a modern power system. It highlights the need for integration and communication across various domains to ensure efficient and reliable power delivery.
 
+![Acquisition and Control](../img/power-system-reference-architecture.png)
+
 **Customer & Market**: This area focuses on the interactions between the power system and its customers, as well as the market mechanisms. It includes managing relationships and communication with customers, understanding customer responses to market dynamics and power system changes, monitoring energy usage for accurate billing and compensation, and managing the market platform gateway, which covers aspects like bidding, pricing, and trading of energy. This comprehensive approach integrates customer interaction, response analysis, financial transactions, and market operations to ensure efficient energy market functioning.
 
 **System Management**: This section relates to the overall management of the power system. It includes the generation of market signals based on activities such as price changes, control mechanisms for managing the power system's operation, calculations related to power flow and load distribution, and predicting future system needs, including demand and generation capacity. These elements are crucial for maintaining the balance and efficiency of the power system, ensuring stable operations, and planning for future requirements.

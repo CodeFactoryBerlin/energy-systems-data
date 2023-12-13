@@ -2,6 +2,8 @@
 
 System Management section of the power system's reference architecture integrates critical operational processes that ensure the stable and efficient functioning of the power grid. It comprises a range of activities from the generation of market signals to control mechanisms, complex calculations, and future forecasting. This comprehensive framework is designed to maintain system integrity, optimize resource distribution, and anticipate future requirements to make informed decisions for grid management and investment.
 
+![Acquisition and Control](../img/power-system-reference-architecture-system-management.png)
+
 **Market Signal Generation**: is a vital part of the system management that deals with the creation of indicators that reflect the current state of energy supply and demand across different regions, including cross-border capacities. It includes assessing the sufficiency of resources to meet demand (adequacy assessment) and establishing mechanisms for balancing the grid. It also involves the organization of aggregated services that can offer collective resources or demand reduction to the grid as a single entity, enhancing the grid’s flexibility and stability.
 
 **System Control**: component encompasses the operational aspects of the power system, such as remote operation, centralized automation, and the establishment of schedules. It ensures that all system operations are conducted efficiently and reliably. This includes maintaining power quality and system stability, as well as configuring autonomous functions to respond to system conditions. The control mechanisms in this section are critical for real-time management of the power grid.
