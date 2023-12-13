@@ -1,6 +1,6 @@
 # Acquisition and Control
 
-![Acquisition and Control](../visuals/power-system-reference-architecture-acquisition-and-control.png)
+![Acquisition and Control](../img/power-system-reference-architecture-acquisition-and-control.png)
 
 The Acquisition and Control section in the power system architecture focuses on the collection and management of data and the control of power system operations. This is where the physical state of the power system is monitored, decisions are made, and actions are taken to maintain system stability, efficiency, and reliability. This includes managing both less-critical and critical equipment, ensuring that all components communicate effectively, and that control actions are timely and accurate.
 
